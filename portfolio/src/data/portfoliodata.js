@@ -1,7 +1,7 @@
 export default [
   {
     title: "ToDO List Website",
-    imgUrl: '/assets/todo.jpg',
+    imgUrl: "/assets/todo.jpg",
     stack: ["HTML", "CSS", "JS"],
     link: "https://amirsenpai.github.io/ToDo-list-website-amir",
   },
