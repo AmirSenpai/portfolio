@@ -15,6 +15,6 @@ export default [
     title: "Portfolio",
     imgUrl: "/assets/portfolio.jpg",
     stack: ["React", "Tailwind", "Vite"],
-    link: "#",
+    link: "https://github.com/AmirSenpai/portfolio",
   },
 ];

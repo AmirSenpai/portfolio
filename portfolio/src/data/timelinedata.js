@@ -20,4 +20,11 @@ export default [
     details:
       "for 1 year i did C# classes on person and learned some coding"
   },
+  {
+    year: "Older",
+    title: "",
+    duration: "",
+    details:
+      ""
+  },
 ];

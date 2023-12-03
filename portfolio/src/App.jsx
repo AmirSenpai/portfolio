@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import Intro from "./components/intro";
 import TimelineMain from "./components/timeline";
 import PortfolioMain from "./components/Portfolio";
-import Contact from "./components/contact";
 import Footer from "./components/footer";
 
 function App() {
@@ -75,7 +74,6 @@ function App() {
           <Intro />
           <PortfolioMain />
           <TimelineMain />
-          {/* <Contact /> */}
           <Footer />
         </div>
       </div>
