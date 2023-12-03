@@ -7,7 +7,7 @@ function Intro() {
         justify-center flex-col text-center
         pt-20 pb-6"
     >
-      <h1 className="text-5xl md:text-5xl mb-1 md:mb-3 font-bold">
+      <h1 className="text-5xl md:text-5xl dark:text-white mb-1 md:mb-3 font-bold">
         AmirHossinDoosti - AmirSenpai
       </h1>
       <p className="text-stone-700 text-base md:text-lg mb-3 font-medium">
